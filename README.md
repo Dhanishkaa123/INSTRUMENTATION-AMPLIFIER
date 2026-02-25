@@ -25,15 +25,16 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 # TABULATION:
 | S.No | V1 (Volts) | V2 (Volts) | Vo = (Rf/R1)[1 + (2R’/R)] (V2 − V1) (Theoretical) | Vo (Practical) |
 |------|------------|------------|---------------------------------------------------|----------------|
-| 1    |            |            |                                                   |                |
-| 2    |            |            |                                                   |                |
-| 3    |            |            |                                                   |                |
+| 1    |    2v       |    2.5        |             -2.7                                      |     2.6           |
+| 2    |    3        |     2       |                      -5.4                             |         -5.6       |
+| 3    |     3.5       |    1.5        |                     -8.1                              |          -8.5      |
 # MODEL GRAPH:
 
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/137f0429-9132-4da7-8832-c19c000f1db8" />
 
 # PRACTICAL GRAPH:
-PASTE UR GRAPH HERE.
+<img width="1053" height="1433" alt="image" src="https://github.com/user-attachments/assets/24613aab-1ccb-44cb-b000-828772a2cecd" />
+
 
 # PROCEDURE:
 
